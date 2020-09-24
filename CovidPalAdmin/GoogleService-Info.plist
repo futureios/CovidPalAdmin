@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>47735989417-50mkq9ce3tptoiacch3i75s4b4gif0t7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.47735989417-50mkq9ce3tptoiacch3i75s4b4gif0t7</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>47735989417-hrau30mgqrmcnv1mbcda3snsind0reih.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDP3vmMmQ8gt5VFKvCt4ecGegdxrClNmpk</string>
+	<key>GCM_SENDER_ID</key>
+	<string>47735989417</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.future.CovidPalAdmin</string>
+	<key>PROJECT_ID</key>
+	<string>testtee-c0428</string>
+	<key>STORAGE_BUCKET</key>
+	<string>testtee-c0428.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:47735989417:ios:90bc4ffb0b1163c0c735b8</string>
+	<key>DATABASE_URL</key>
+	<string>https://testtee-c0428.firebaseio.com</string>
+</dict>
+</plist>
